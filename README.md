@@ -1,4 +1,4 @@
-# backTutorSegundaLengua
+# Backend Tutor Segunda Lengua 'Tuto'
 
 Backend del proyecto “Tuto”, un tutor de segunda lengua impulsado con el modelo Gemini AI en su versión pro 1.0
 
